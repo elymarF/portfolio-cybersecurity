@@ -1,10 +1,13 @@
 # portfolio-cybersecurity
 Portfólio de Segurança Cibernética, contendo projetos, certificações e análises de segurança.
 Declaração Profissional
-Sou um profissional dedicado à Segurança Cibernética e Redes, com experiência em monitoramento de processos, administração de redes e análise de vulnerabilidades. Meu objetivo é proteger sistemas contra ameaças, garantindo a confidencialidade, integridade e disponibilidade das informações.
+SDeclaração Profissional
+Sou um profissional entusiasta da Segurança Cibernética e Redes, com um forte compromisso em proteger sistemas e dados contra ameaças digitais. Minha trajetória inclui experiência em monitoramento de redes, análise de vulnerabilidades e administração de infraestrutura, sempre com foco na confidencialidade, integridade e disponibilidade das informações.
 
-Atualmente, estou aprimorando minhas habilidades em análise de riscos, detecção de intrusões e implementação de protocolos de segurança, além de me preparar para a certificação CompTIA Security+. Busco oportunidades para aplicar meu conhecimento técnico em ambientes desafiadores, colaborando com equipes para fortalecer a segurança digital das organizações.
+Meus principais valores incluem aprendizado contínuo, ética profissional e resiliência diante de desafios tecnológicos. Tenho interesse em cibersegurança porque acredito que a defesa digital é essencial para garantir a operação segura de empresas e indivíduos.
+
+Atualmente, estou aprimorando minhas habilidades em detecção de intrusões, resposta a incidentes e automação de segurança, enquanto me preparo para a certificação CompTIA Security+. Meu objetivo é aplicar esse conhecimento para ajudar organizações a fortalecerem sua postura de segurança e mitigarem riscos cibernéticos.
 
 💻 Habilidades: Redes, Protocolos de Segurança, Linux, Firewalls, Análise de Logs, Automação com Python
 📜 Certificações: Em andamento - CompTIA Security+
-🚀 Objetivo: Atuar como Analista de Segurança Cibernética
+🚀 Objetivo: Atuar como Analista de Segurança Cibernética, ajudando empresas a protegerem seus ativos digitais.
